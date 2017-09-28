@@ -10,6 +10,7 @@ A compilation of various academic projects. Some classes may not have tangible c
 * CS 256 - C++ Programming
 * CS 311 - Formal Languages and Automata
 * CS 331 - Design and Analysis of Algorithms
+* CS 380 - Computer Networks
 * CS 408 - Programming Languages
 * CS 431 - Operating Systems
 * CS 463 - Undergraduate Seminar
